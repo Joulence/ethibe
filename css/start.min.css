@@ -1,0 +1,32 @@
+.start {
+  border: 1px #000 solid;
+  background: linear-gradient(0deg, #E8E7EE, #E8E7EE), #000000;
+  border-radius: 20px;
+  padding: 82px 0 127px 0;
+}
+
+.start-text {
+  text-align: center;
+}
+.start-text h1 {
+  font-weight: 900;
+  font-size: 80px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.start-text h2 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+
+@media (max-width: 1240px) {
+  .start h1 {
+    font-size: 70px;
+  }
+}
+@media (max-width: 800px) {
+  .start h1 {
+    font-size: 40px;
+  }
+}

@@ -1,0 +1,27 @@
+.header__inner {
+  margin: 17px 0 16px 0;
+}
+
+.header__inner-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__inner-title h1 {
+  font-weight: 700;
+  font-size: 30px;
+  color: #000;
+}
+.header__inner-title a {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 19px;
+  color: #000000;
+  padding: 10px 42px;
+  background: linear-gradient(218.09deg, rgba(248, 155, 166, 0.8) 21.82%, rgba(255, 211, 191, 0.8) 76.1%), url(.png), #FFFFFF;
+  border-radius: 338px;
+  transition: all 0.1s linear;
+}
+.header__inner-title a:hover {
+  background: linear-gradient(218.09deg, rgba(241, 98, 115, 0.8) 21.82%, rgba(223, 174, 151, 0.8) 76.1%), url(.png), #FFFFFF;
+}
