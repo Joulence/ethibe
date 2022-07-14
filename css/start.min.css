@@ -9,13 +9,13 @@
   text-align: center;
 }
 .start-text h1 {
-  font-weight: 900;
+  font-family: 'Satoshi-Black';
   font-size: 80px;
   color: #000000;
   margin-bottom: 20px;
 }
 .start-text h2 {
-  font-weight: 400;
+  font-family: 'Satoshi-Medium';
   font-size: 16px;
   color: #000000;
 }
